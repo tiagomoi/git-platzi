@@ -16,4 +16,3 @@ se você qquiser saber mais sobre mim, pode acessar [meusite] (www.tiagodimaggio
 ### - Python 
 ### - C#
 ### - Javascript 
-
