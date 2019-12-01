@@ -4,7 +4,7 @@
 
 Olá, eu sou **Tiago Moises** e amo programar usando o git e o GitHub .
 
-se você qquiser saber mais sobre mim, pode acessar [meu-site] (www.tiagodimaggio.com.br)
+se você qquiser saber mais sobre mim, pode acessar [meu site](www.tiago.github.io)
 
 # curso  git-platzi que fiz 
 
